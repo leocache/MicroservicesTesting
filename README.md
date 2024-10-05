@@ -97,6 +97,8 @@ All papers included in the survey：
 
 [FUSE: Fault Diagnosis and Suppression with eBPF for Microservices](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_17)
 
+[Fuzz Testing in Practice: Obstacles and Solutions](https://ieeexplore.ieee.org/abstract/document/8330260/)
+
 [Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution](http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-116.pdf)
 
 [Gremlin: Systematic Resilience Testing of Microservices](https://ieeexplore.ieee.org/abstract/document/7536505/)
@@ -116,3 +118,62 @@ All papers included in the survey：
 [A metamorphic testing approach for online testing of service-oriented software applications](https://www.igi-global.com/article/international-journal-web-services-research/3099)
 
 [Metamorphic Testing for Web System Security](https://ieeexplore.ieee.org/abstract/document/10089522/)
+
+[MTTM: Metamorphic Testing for Textual Content Moderation Software](https://ieeexplore.ieee.org/abstract/document/10172598/)
+
+[Software Tool to Perform Metamorphic Testing on RESTful Web APIs](https://link.springer.com/chapter/10.1007/978-981-16-8987-1_38)
+
+[Metamorphic Testing on Multi-module UAV Systems](https://ieeexplore.ieee.org/abstract/document/9678841/)
+
+[Microlens: A performance analysis framework for microservices using hidden metrics with bpf](https://ieeexplore.ieee.org/abstract/document/9860695/)
+
+[Microservice Publishing Technology Based on DevOps Architecture](https://ieeexplore.ieee.org/abstract/document/9586904/)
+
+[MICROSERVICES EVOLVING DEVOPS PIPELINES](https://www.doi.org/10.56726/IRJMETS29808)
+
+[Microservices: architecting for continuous delivery and DevOps](https://ieeexplore.ieee.org/abstract/document/8417115/)
+
+[Microservices Integrated Performance and Reliability Testing](https://dl.acm.org/doi/abs/10.1145/3524481.3527233)
+
+[Microservice-tailored Generation of Session-based Workload Models for Representative Load Testing](https://ieeexplore.ieee.org/abstract/document/8843284/)
+
+[Microusity: A testing tool for Backends for Frontends (BFF) Microservice Systems](https://ieeexplore.ieee.org/abstract/document/10174084/)
+
+[Mutation Testing in Evolving Systems: Studying the Relevance of Mutants to Code Evolution](https://dl.acm.org/doi/abs/10.1145/3530786)
+
+[Mutta: a novel tool for E2E web mutation testing](https://link.springer.com/article/10.1007/s11219-023-09616-6)
+
+[Mutation Testing for Aspect-Oriented Programs](https://ieeexplore.ieee.org/abstract/document/4539532/)
+
+[Practical Mutation Testing at Scale: A view from Google](https://ieeexplore.ieee.org/abstract/document/9524503/)
+
+[Pit: a practical mutation testing tool for java](https://dl.acm.org/doi/abs/10.1145/2931037.2948707)
+
+[NestFuzz: Enhancing Fuzzing with Comprehensive Understanding of Input Processing Logic](https://dl.acm.org/doi/abs/10.1145/3576915.3623103)
+
+[One engine to fuzz'em all: Generic language processor testing with semantic validation](https://ieeexplore.ieee.org/abstract/document/9519403/)
+
+[ORCAS: Efficient resilience benchmarking of microservice architectures](https://ieeexplore.ieee.org/abstract/document/8539184/)
+
+[ParmeSan: Sanitizer-guided Greybox Fuzzing](https://www.usenix.org/conference/usenixsecurity20/presentation/osterlund)
+
+[PATA: Fuzzing with Path Aware Taint Analysis](https://ieeexplore.ieee.org/abstract/document/9833594/)
+
+[Performance Diagnosis in Cloud Microservices Using Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-76352-7_13)
+
+[Performance Analysis of RESTFUL Web Services  and RABBITMQ for Microservices based Systems on Cloud Environment](https://ieeexplore.ieee.org/abstract/document/10511747/)
+
+[Preproduction Deploys:Cloud-Native Integration Testing](https://ieeexplore.ieee.org/abstract/document/9658870/)
+
+[Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification](https://dl.acm.org/doi/abs/10.1145/3510457.3513029)
+
+[DevOpRET: Continuous Reliability Testing in DevOps](https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2298)
+
+[Regression Greybox Fuzzing](https://dl.acm.org/doi/abs/10.1145/3460120.3484596)
+
+[Relation-based test case prioritization for regression testing](https://www.sciencedirect.com/science/article/pii/S0164121220300212)
+
+[More precise regression test selection via reasoning about semantics-modifying changes](https://dl.acm.org/doi/abs/10.1145/3597926.3598086)
+
+[Seed Selection for Successful Fuzzing](https://dl.acm.org/doi/abs/10.1145/3460319.3464795)
+
