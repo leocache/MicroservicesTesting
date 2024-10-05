@@ -177,3 +177,5 @@ All papers included in the survey：
 
 [Seed Selection for Successful Fuzzing](https://dl.acm.org/doi/abs/10.1145/3460319.3464795)
 
+[Selecting and Prioritizing Regression Test Suites by Production Usage Risk in Time-Constrained Environments](https://link.springer.com/chapter/10.1007/978-3-030-35510-4_3)
+
