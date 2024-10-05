@@ -56,3 +56,23 @@ All papers included in the survey：
 [AutoMAP: Diagnose Your Microservice-based Web Applications Automatically](https://dl.acm.org/doi/abs/10.1145/3366423.3380111)
 
 [Automated functional and robustness testing of microservice architectures](https://www.sciencedirect.com/science/article/pii/S0164121223002522)
+
+[Automated test-based learning and verification of performance models for microservices systems](https://www.sciencedirect.com/science/article/pii/S0164121222000061)
+
+[Automated Whitebox Fuzz Testing](http://pxzhang.cn/paper/concolic_testing/FuzzTesting.pdf)
+
+[Automatic Generation of Smoke Test Suites for Kubernetes](https://dl.acm.org/doi/abs/10.1145/3533767.3543298)
+
+[Automatic Ex-Vivo Regression Testing of Microservices](https://dl.acm.org/doi/abs/10.1145/3387903.3389309)
+
+[Automatic performance monitoring and regression testing during the transition from monolith to microservices](https://ieeexplore.ieee.org/abstract/document/8990249/)
+
+[Automation of Regression test in Microservice Architecture](https://ieeexplore.ieee.org/abstract/document/8387249/)
+
+[BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning](https://ieeexplore.ieee.org/abstract/document/9833751/)
+
+[Bifrost – Supporting Continuous Deployment with Automated Enactment of Multi-Phase Live Testing Strategies](https://dl.acm.org/doi/abs/10.1145/2988336.2988348)
+
+[Bunk8s: Enabling Easy Integration Testing of Microservices in Kubernetes](https://ieeexplore.ieee.org/abstract/document/9825810/)
+
+[Challenges in Regression Test Selection for End-to-End Testing of Microservice-based Software Systems](https://dl.acm.org/doi/abs/10.1145/3524481.3527217)
