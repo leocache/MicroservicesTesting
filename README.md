@@ -76,3 +76,43 @@ All papers included in the survey：
 [Bunk8s: Enabling Easy Integration Testing of Microservices in Kubernetes](https://ieeexplore.ieee.org/abstract/document/9825810/)
 
 [Challenges in Regression Test Selection for End-to-End Testing of Microservice-based Software Systems](https://dl.acm.org/doi/abs/10.1145/3524481.3527217)
+
+[Comparison of End-to-End Testing Tools for Microservices: A Case Study](https://link.springer.com/chapter/10.1007/978-3-030-68285-9_39)
+
+[Consumer-Driven Contract Tests for Microservices: A Case Study](https://link.springer.com/chapter/10.1007/978-3-030-35333-9_35)
+
+[Continuous Integration of Applications for ONOS](https://ieeexplore.ieee.org/abstract/document/8806696/)
+
+[Delta Debugging Microservice Systems with Parallel Optimization](https://ieeexplore.ieee.org/abstract/document/8725573/)
+
+[EMB: A Curated Corpus of Web/Enterprise Applications And Library Support for Software Testing Research](https://ieeexplore.ieee.org/abstract/document/10132197/)
+
+[End-to-End Test Coverage Metrics in Microservice Systems: An Automated Approach](https://link.springer.com/chapter/10.1007/978-3-031-46235-1_3)
+
+[Enhance Combinatorial Testing With Metamorphic Relations](https://ieeexplore.ieee.org/abstract/document/9629275/)
+
+[Enhancing Fault Injection Testing of Service Systems via Fault-Tolerance Bottleneck](https://ieeexplore.ieee.org/abstract/document/10149456/)
+
+[Fitness-guided Resilience Testing of Microservice-based Applications](https://ieeexplore.ieee.org/abstract/document/9283918/)
+
+[FUSE: Fault Diagnosis and Suppression with eBPF for Microservices](https://link.springer.com/chapter/10.1007/978-3-031-48421-6_17)
+
+[Hybrid fuzz testing: Discovering software bugs via fuzzing and symbolic execution](http://reports-archive.adm.cs.cmu.edu/anon/2012/CMU-CS-12-116.pdf)
+
+[Gremlin: Systematic Resilience Testing of Microservices](https://ieeexplore.ieee.org/abstract/document/7536505/)
+
+[Greybox Fuzzing of Distributed Systems](https://dl.acm.org/doi/abs/10.1145/3576915.3623097)
+
+[Hashing Fuzzing: Introducing Input Diversity to Improve Crash Detection](https://ieeexplore.ieee.org/abstract/document/9502543/)
+
+[How effectively does metamorphic testing alleviate the oracle problem?](https://ieeexplore.ieee.org/abstract/document/6613484/)
+
+[Test Selection for Unified Regression Testing](https://ieeexplore.ieee.org/abstract/document/10172797/)
+
+[Inferring Relations Among Test Programs in Microservices Applications](https://ieeexplore.ieee.org/abstract/document/9564098/)
+
+[Large Language Model guided Protocol Fuzzing](https://www.ndss-symposium.org/wp-content/uploads/2024-556-paper.pdf)
+
+[A metamorphic testing approach for online testing of service-oriented software applications](https://www.igi-global.com/article/international-journal-web-services-research/3099)
+
+[Metamorphic Testing for Web System Security](https://ieeexplore.ieee.org/abstract/document/10089522/)
