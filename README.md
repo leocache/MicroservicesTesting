@@ -179,3 +179,26 @@ All papers included in the survey：
 
 [Selecting and Prioritizing Regression Test Suites by Production Usage Risk in Time-Constrained Environments](https://link.springer.com/chapter/10.1007/978-3-030-35510-4_3)
 
+[Colosseum: Regression Test Prioritization by Delta Displacement in Test Coverage](https://ieeexplore.ieee.org/document/9534659)
+
+[Smart Greybox Fuzzing](https://ieeexplore.ieee.org/abstract/document/8839290)
+
+[Smoke Testing of Cloud Systems](https://ieeexplore.ieee.org/document/9787844)
+
+[Solving the Instance Identification Problem in Micro-service Testing](https://link.springer.com/chapter/10.1007/978-3-031-04673-5_15)
+
+[TDD4Fog: A Test-Driven Software Development Platform for Fog Computing Systems](https://ieeexplore.ieee.org/document/9139723)
+
+[Testing for Event-Driven Microservices Based on Consumer-Driven Contracts and State Models](https://ieeexplore.ieee.org/document/10043304)
+
+[Testing Graph Searching Based Path Planning Algorithms by Metamorphic Testing](https://ieeexplore.ieee.org/document/8952134)
+
+[An Optimized Test Case Minimization Technique Using Genetic Algorithm for Regression Testing](https://www.sciencedirect.com/org/science/article/pii/S1546221822003484)
+
+[UTEMS: A Unit Testing Scheme for Event-driven Microservices](https://ieeexplore.ieee.org/document/10314279)
+
+[VDF: Targeted Evolutionary Fuzz Testing of Virtual Devices](https://link.springer.com/chapter/10.1007/978-3-319-66332-6_1)
+
+[White-Box Fuzzing RPC-Based APIs with EvoMaster: An Industrial Case Study](https://dl.acm.org/doi/10.1145/3585009)
+
+[Zero-Config Fuzzing for Microservices](https://ieeexplore.ieee.org/document/10298503)
